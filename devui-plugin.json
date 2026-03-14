@@ -1,0 +1,7 @@
+{
+  "kind": "countdown",
+  "label": "Countdown",
+  "shortLabel": "CD",
+  "defaultSize": { "width": 400, "height": 300 },
+  "entry": "dist/index.js"
+}
